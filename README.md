@@ -80,3 +80,9 @@ In XML file we have a GridLayout with 9 ImageView:
 That`s it!
 
 I will share another project about Object Oriented Programming in Android Stodio you can see in this [repository](https://github.com/mahmood-ghaem/AndroidStudio_OOP)
+
+## License
+```
+Copyright Sayed Mahmood Ghaem Maghami April 08, 2020.
+
+```
