@@ -46,6 +46,7 @@ for (int[] situations : winningSituations) {
 ```
 We check to see if array cells look like winning modes.
 
+## Discussion activity_main.xml
 In XML file we have a GridLayout with 9 ImageView:
 
 ```xml
@@ -76,3 +77,6 @@ In XML file we have a GridLayout with 9 ImageView:
   .
   .
   ```
+That`s it!
+
+I will share another project about Object Oriented Programming in Android Stodio you can see in this [repository](https://github.com/mahmood-ghaem/AndroidStudio_OOP)
