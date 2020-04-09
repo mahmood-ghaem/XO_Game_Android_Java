@@ -1,4 +1,4 @@
-package nl.mahmood.xo_game;
+package com.developer.xo;
 
 import androidx.appcompat.app.AppCompatActivity;
 
