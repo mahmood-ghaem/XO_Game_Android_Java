@@ -83,7 +83,7 @@ I will share another project about Object Oriented Programming in Android Stodio
 
 ## License
 ```
-Copyright Sayed Mahmood Ghaem Maghami April 08, 2020.
+Copyright Sayed Mahmood Ghaemmaghami April 08, 2020.
 
 ```
 [Linkedin](https://www.linkedin.com/in/mahmood-ghaemmaghami)
